@@ -16,8 +16,6 @@ $ awk -F= '/^NAME/{print $2}' /etc/os-release
 #### trick
 https://www.youtube.com/watch?v=qS0phIqRy8Y
 ```
-Going through some popular and more obscure Keyboard Shortcuts for Linux Bash Terminal.
-
 Ctrl+C – Kill current process
 Ctrl+D – Close Terminal
 Ctrl+Z – Suspend. Use “fg process” to return
