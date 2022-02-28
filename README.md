@@ -100,6 +100,10 @@ H, M, L # top, middle, bottom
 set nu   # set nonu, set nu!
 set rnu  # set nornu, set rnu!
 
+5>>     # indent 5 lines from the currosr
+5<<     # remove indent for 5 lines
+.       # repeat the previouse action
+
 
 
 
