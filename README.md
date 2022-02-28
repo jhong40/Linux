@@ -120,10 +120,7 @@ tmux
               
 ## vi usage
 
- :set paste   #  to avoid yaml misformat               
- :set all     # see all the setting
- :help expandtab # help tabstop
-              
+             
  gg - beging of F
  G - end of F
  H - beging of screen
@@ -160,7 +157,8 @@ set list   # show space, tab, endofline$
 set paste  # copy web yaml to vi
 set ruler  # see the line,column number
 set number  # number each line
-      
+
+:help expandtab # help tabstop   
 :vsplit    # 
 :wincmd w  # move to the next window
  ```
