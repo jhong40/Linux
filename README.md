@@ -93,6 +93,16 @@ ctr+u   # delete the current command
 ctr+a   # goto begining of the command
 ctr+e   # goto the end of the command
 
+7,9co.  # copy line 7,8,9 to current loc
+H, M, L # top, middle, bottom
+
+
+set nu   # set nonu, set nu!
+set rnu  # set nornu, set rnu!
+
+
+
+
 truncate -s 0 myapp.log   # resize the log to 0 at run time
 mount | column -t
 ```
