@@ -110,3 +110,57 @@ set rnu  # set nornu, set rnu!
 truncate -s 0 myapp.log   # resize the log to 0 at run time
 mount | column -t
 ```
+
+```
+tmux 
+ ctr-b %  - vertical split 
+ ctr-b "  - horizontal split
+ ctr-b => arrow 
+ ctr-b <= arrow
+              
+## vi usage
+
+ :set paste   #  to avoid yaml misformat               
+ :set all     # see all the setting
+ :help expandtab # help tabstop
+              
+ gg - beging of F
+ G - end of F
+ H - beging of screen
+ L - end of screen
+ M - middle of screen
+ w - => word
+ b - <= word
+ 
+ i - insert br
+ a - insert after
+ o - insert one line below
+ s - replace/insert           
+ c - followed by w,$ remove those and insert         
+ 
+ I - insert at the begining of l
+ A - insert at the end of l
+ O - insert one line above
+ S - replace the whole line and insert
+ C - delete the rest of line and insert
+           
+ v (lower v) - visual mode, 
+ shift+v (cap V) - visual mode select line
+ ctrol+v  - visual mode select block
+ move arrow to select
+ > 
+ <
+ 
+set expandtab
+set tabstop=2
+set shiftwidth=2
+      
+set all    # check all the setting       
+set list   # show space, tab, endofline$
+set paste  # copy web yaml to vi
+set ruler  # see the line,column number
+set number  # number each line
+      
+:vsplit    # 
+:wincmd w  # move to the next window
+ ```
