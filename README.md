@@ -97,30 +97,17 @@ ctr+e   # goto the end of the command
 H, M, L # top, middle, bottom
 
 
-set nu   # set nonu, set nu!
-set rnu  # set nornu, set rnu!
-
 5>>     # indent 5 lines from the currosr
 5<<     # remove indent for 5 lines
 .       # repeat the previouse action
-
-
-
 
 truncate -s 0 myapp.log   # resize the log to 0 at run time
 mount | column -t
 ```
 
 ```
-tmux 
- ctr-b %  - vertical split 
- ctr-b "  - horizontal split
- ctr-b => arrow 
- ctr-b <= arrow
-              
 ## vi usage
-
-             
+            
  gg - beging of F
  G - end of F
  H - beging of screen
@@ -157,6 +144,8 @@ set list   # show space, tab, endofline$
 set paste  # copy web yaml to vi
 set ruler  # see the line,column number
 set number  # number each line
+set nu   # set nonu, set nu!
+set rnu  # set nornu, set rnu!
 
 :help expandtab # help tabstop   
 :vsplit    # 
