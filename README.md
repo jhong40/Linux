@@ -106,7 +106,7 @@ mount | column -t
 ```
 
 ```
-## vi usage
+######################### vi usage
             
  gg - beging of F
  G - end of F
