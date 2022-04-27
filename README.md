@@ -1,4 +1,8 @@
 # Linux
+
+### Time stamp
+https://stackoverflow.com/questions/17066250/create-timestamp-variable-in-bash-script
+
 ### check connectivity
 ```
 ssh -v -x -o connectitimeout=1 server1 -p 80
