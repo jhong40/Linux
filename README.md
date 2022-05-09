@@ -2,6 +2,7 @@
 
 ###
 Shell Scripting: Expert Recipes for Linux, Bash, and More
+https://doc.lagout.org/operating%20system%20/linux/Commands%20and%20Shell%20Programming/Shell%20Scripting.pdf
 ###
 https://publib.boulder.ibm.com/httpserv/cookbook/Troubleshooting-Troubleshooting_Operating_Systems-Troubleshooting_Linux.html
 
