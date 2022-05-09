@@ -1,5 +1,8 @@
 # Linux
 
+###
+https://publib.boulder.ibm.com/httpserv/cookbook/Troubleshooting-Troubleshooting_Operating_Systems-Troubleshooting_Linux.html
+
 ### Time stamp
 https://stackoverflow.com/questions/17066250/create-timestamp-variable-in-bash-script
 
