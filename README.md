@@ -5,6 +5,7 @@ https://publib.boulder.ibm.com/httpserv/cookbook/Troubleshooting-Troubleshooting
 
 ### Time stamp
 https://stackoverflow.com/questions/17066250/create-timestamp-variable-in-bash-script
+https://www.geeksforgeeks.org/date-command-linux-examples/
 
 ### check connectivity
 ```
