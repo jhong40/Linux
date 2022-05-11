@@ -1,4 +1,6 @@
 # Linux
+###
+https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
 
 ###
 Shell Scripting: Expert Recipes for Linux, Bash, and More
