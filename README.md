@@ -164,3 +164,12 @@ set rnu  # set nornu, set rnu!
 :vsplit    # 
 :wincmd w  # move to the next window
  ```
+``` 
+Ctrl + U = Delete left of the cursor
+Ctrl + K = Delete right of the cursor
+
+Ctrl + D = Delete character at the cursor 
+
+Ctrl + W = Delete word on the left
+Alt +  D = Delete the word on the right
+```
