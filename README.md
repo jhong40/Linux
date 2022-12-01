@@ -2,6 +2,9 @@
 ###
 https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
 
+# how to find email address github user
+https://api.github.com/users/jhong40/events/public
+
 ###
 Shell Scripting: Expert Recipes for Linux, Bash, and More
 https://doc.lagout.org/operating%20system%20/linux/Commands%20and%20Shell%20Programming/Shell%20Scripting.pdf
