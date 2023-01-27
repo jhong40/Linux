@@ -2,6 +2,15 @@
 ###
 https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
 
+
+### Self signed certificate: key, crt
+
+```
+openssl req -x509 -newkey rsa:4096 -sha256 -days 3650 -nodes \
+  -keyout example.key -out example.crt -subj "/CN=example.com" \
+  -addext "subjectAltName=DNS:example.com,DNS:www.example.net"
+```
+
 # how to find email address github user
 https://api.github.com/users/jhong40/events/public
 
