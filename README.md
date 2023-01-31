@@ -2,6 +2,11 @@
 ###
 https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
 
+###
+- https://www.base64decode.org/
+- https://www.sslchecker.com/certdecoder
+- https://jwt.io/
+
 
 ### Self signed certificate: key, crt
 
