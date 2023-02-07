@@ -1,4 +1,13 @@
 # Linux
+
+### Add user
+```
+ssh-keygen -t ed25519 -C "myemail@blah.com"
+
+useradd -m lisa  #/home/lisa
+passwd lisa
+
+```
 ###
 https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
 
