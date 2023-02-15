@@ -7,6 +7,8 @@ ssh-keygen -t ed25519 -C "myemail@blah.com"
 useradd -m lisa  #/home/lisa
 passwd lisa
 
+useradd -m -p $(perl -e 'print crypt($ARGV[0], "password")' 'mypass') user1
+
 ```
 ###
 https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/
