@@ -1,5 +1,10 @@
 # Linux
 
+### check disk space
+```
+du -csh *
+```
+
 ### Add user
 ```
 ssh-keygen -t ed25519 -C "myemail@blah.com"
