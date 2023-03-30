@@ -11,6 +11,9 @@ ssh-keygen -t ed25519 -C "myemail@blah.com"
 
 useradd -m lisa  #/home/lisa
 passwd lisa
+usermod -aG sudo lisa
+
+
 
 useradd -m -p $(perl -e 'print crypt($ARGV[0], "password")' 'mypass') user1
 
