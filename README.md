@@ -13,6 +13,7 @@ useradd -m lisa  #/home/lisa
 passwd lisa
 usermod -aG sudo lisa
 
+groupadd sudo
 
 
 useradd -m -p $(perl -e 'print crypt($ARGV[0], "password")' 'mypass') user1
