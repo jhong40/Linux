@@ -217,4 +217,17 @@ Ctrl + D = Delete character at the cursor
 
 Ctrl + W = Delete word on the left
 Alt +  D = Delete the word on the right
+
+:sp -> slit windows top/bottom
+:vsp -> split -> left/right
+ctr-ww -> switch window
+
+shift+v: enter visual mode, hight the line
+shift+downarrow: 
+shift+up arrow
+shift >: move right
+shift <: move left
+. : repeat the above
+
+
 ```
