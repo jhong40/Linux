@@ -1,4 +1,5 @@
 # Linux
+(linux command cursor move)[https://github.com/fliptheweb/bash-shortcuts-cheat-sheet]
 
 ### check disk space
 ```
