@@ -1,6 +1,6 @@
 # Linux
-[Git Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-[linux command cursor move](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
+- [Git Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [linux command cursor move](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
 
 ### check disk space
 ```
