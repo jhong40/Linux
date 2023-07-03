@@ -89,8 +89,9 @@ Command History
 Ctrl+P or Up Arrow - Previous Command
 Ctrl+N or Down Arrow - Next Command
 Ctrl+R - Recall command matching search
-Ctrl+O - Run the command you found with Ctrl+R
-Ctrl+G - Leave history searching mode without running a command
+  Ctrl+O - Run the command you found with Ctrl+R
+  Ctrl+T - leave the command without run
+  Ctrl+G - Leave history searching mode without running a command
 !! - Repeat previous command
 !:n – Repeat specific argument from previous command
 !:n:m – Repeat range of arguments from previous command
