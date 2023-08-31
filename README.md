@@ -4,6 +4,9 @@
 - [linux command cursor move](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
 - [vi cheat sheet](https://www.cse.scu.edu/~yfang/coen11/vi-CheatSheet.pdf)
 
+### Curl get certificate
+curl -kv -w '\n%{certs}\n' https://blah.com
+
 ### check disk space
 ```
 du -csh *
