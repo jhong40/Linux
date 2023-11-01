@@ -22,8 +22,14 @@ usermod -aG sudo lisa
 
 groupadd sudo
 
-
 useradd -m -p $(perl -e 'print crypt($ARGV[0], "password")' 'mypass') user1
+
+ssh-keygen -t rsa -b 4096
+ssh-keygen -t dsa 
+ssh-keygen -t ecdsa -b 521
+ssh-keygen -t ed25519
+
+/var/log/secure 
 
 ```
 ### Timezone -> EST
