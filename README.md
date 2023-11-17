@@ -5,9 +5,9 @@
 - [vi cheat sheet](https://www.cse.scu.edu/~yfang/coen11/vi-CheatSheet.pdf)
 
 ### Regex Test
-- regexr.com
-- regex101.com
-- 
+- [regexr.com](https://regexr.com)
+- [regex101.com](https://regex101.com)
+
 ### Curl get certificate
 curl -kv -w '\n%{certs}\n' https://blah.com
 
